@@ -1,0 +1,28 @@
+h1 {
+  color : Blue;
+  transform: rotate(180deg);
+  padding: 10px;
+  opacity: .9;
+  position: absolute;
+}
+h2{
+  text-decoration: line-through;
+  transform: rotate(10deg);
+  color: rgb(255, 0, 255);
+  font-family: sans-serif;
+  position: relative;
+}
+
+li {
+  margin: 5sp;
+  color: Orange;
+}
+a {
+  text-decoration: underline;
+  color: Black;
+}
+
+p {
+  font-size: 12sp;
+  font-family: Impact;
+}
