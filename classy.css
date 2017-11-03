@@ -1,0 +1,52 @@
+/*
+Anish Shenoy
+SoftDev1 pd7
+HW12 -- Divisive Class-Based Identity Issues
+2017-11-02
+*/
+
+body{
+  background-color: #6CD4FF;
+}
+
+.extreme{
+  font-family: cursive;
+  text-align: center;
+  text-decoration: underline;
+  color: #8B80F9;
+  width: 20%;
+  margin: auto;
+}
+
+.navzone {
+  width: 10%;
+  margin: 0 auto;
+  color: #DF3B57;
+}
+
+a {
+  text-decoration: none;
+  color: #0F7173 ;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.content h2{
+  text-align: center;
+  color: Green;
+  text-decoration: underline;
+}
+
+.content h2:hover{
+  text-shadow: 0.5px 0.5px;
+  text-decoration: none;
+}
+
+.content p{
+  color: #0F7173;
+  width: 75%;
+  margin: auto;
+  color: #83858C;
+}
